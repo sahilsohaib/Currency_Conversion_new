@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/courency_conversion_new_8627.iml" filepath="$PROJECT_DIR$/.idea/modules/courency_conversion_new_8627.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/courency_conversion_new_8627-build.iml" filepath="$PROJECT_DIR$/.idea/modules/courency_conversion_new_8627-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/courency_conversion_New.iml" filepath="$PROJECT_DIR$/.idea/modules/courency_conversion_New.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/courency_conversion_New-build.iml" filepath="$PROJECT_DIR$/.idea/modules/courency_conversion_New-build.iml" />
     </modules>
   </component>
 </project>
